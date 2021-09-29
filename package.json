@@ -89,7 +89,7 @@
     "@types/semver": "7.3.8",
     "@types/validate-npm-package-name": "3.0.3",
     "husky": "7.0.1",
-    "jest": "27.0.6",
+    "jest": "27.2.4",
     "lint-staged": "11.1.2",
     "rimraf": "3.0.2",
     "ts-jest": "27.0.5",
